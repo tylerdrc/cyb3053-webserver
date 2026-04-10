@@ -1,14 +1,10 @@
-#  Project 03 for the University of Tulsa's CYB-3053: Operating Systems Concept course
+#  Project 3 for the University of Tulsa's CYB-3053: Operating Systems Concept course
 
-## Please review the Project handout for full assignment details.
+## Please review the assignment on Harvey for full  details.
 
 ## Additional Instructions
 
-Use the same environment you used for Project 01 and Project 02 (WSL, a Linux VM, Cygwin, other). We will not be building support for Windows.
-
-Ensure that you obtain all files, preferably through a git clone.
-
-Similar to Project 02, a CMakeLists.txt file and a build script have been provided for you. In the build directory, execute "./build.sh", without the quotes. If there are issues with building, ensure that you have execution permissions set (chmod +x build.sh)
+Similar to Project 2, a CMakeLists.txt file and a build script have been provided for you. In the build directory, execute "./build.sh", without the quotes. If there are issues with building, ensure that you have execution permissions set (chmod +x build.sh)
 
 ## Using the files
 
